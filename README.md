@@ -3,7 +3,7 @@
 ## :ledger: About Me
 - I'm a front-end software developer, honing my skills on various web application projects :globe_with_meridians:
 - I have experience working with HTML, CSS (and Sass), TypeScript (and general JavaScript) for development of responsive web-page designs
-- Developing projects with React and Vue
+- Developing projects with ReactJS and VueJS
 
 ## :open_file_folder: What I'm currently working on
 - I'm currently improving my skills in creating applications with Vue.
@@ -11,6 +11,7 @@
 ## :pushpin: My Links
 - [**LinkedIn**](https://www.linkedin.com/in/artis-vansovics/)
 - [**CodinGame**](https://www.codingame.com/profile/95e33babd8b2b6aed7a24a3e1cbbf36d0938984)
+- [**CODELEX**](https://www.codelex.io/uznemumiem)
 
 ## :page_facing_up: Some Of My Recent Projects
 - [https://github.com/ArtisVansovics/md24_vue-event-emits](https://github.com/ArtisVansovics/md24_vue-event-emits)
