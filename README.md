@@ -6,7 +6,7 @@
 - Developing projects with ReactJS and VueJS
 
 ## :open_file_folder: What I'm currently working on
-- I'm currently improving my skills in creating applications with Vue.
+- I'm currently improving my skills in creating applications with Vue and Angular.
 
 ## :pushpin: My Links
 - [**LinkedIn**](https://www.linkedin.com/in/artis-vansovics/)
