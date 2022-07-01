@@ -3,7 +3,7 @@
 ## :ledger: About Me
 - I'm a front-end software developer, honing my skills on various web application projects :globe_with_meridians:
 - I have experience working with HTML, CSS (and Sass), TypeScript (and general JavaScript) for development of responsive web-page designs
-- Developing projects with ReactJS and VueJS
+- Developing projects with ReactJS, VueJS and Angular
 
 ## :open_file_folder: What I'm currently working on
 - I'm currently improving my skills in creating applications with Vue and Angular.
@@ -14,9 +14,9 @@
 - [**CODELEX**](https://www.codelex.io/uznemumiem)
 
 ## :page_facing_up: Some Of My Recent Projects
-- [https://github.com/ArtisVansovics/md24_vue-event-emits](https://github.com/ArtisVansovics/md24_vue-event-emits)
-  - A Vue app with modular components
-  - The components can be reused in other components with custom even emits
+- [https://github.com/ArtisVansovics/rockPaperScissorsLizardSpock](https://github.com/ArtisVansovics/rockPaperScissorsLizardSpock)
+  - A Vue app for playing the game Rock, Paper, Scissors, Lizard, Spock
+  - The player competes with the CPU for the highest scrore
 - [https://github.com/ArtisVansovics/md18_Swedbank-form](https://github.com/ArtisVansovics/md18_Swedbank-form)
   - An interactive form created with React
   - The questions use various input elements and have custom error messages
